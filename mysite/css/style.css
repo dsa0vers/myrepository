@@ -1,0 +1,108 @@
+
+
+/*----------------------common-------------------------*/
+ *{   margin:0; padding:0; font-family:Microsoft YaHei;}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}
+.center{ text-align:center;}
+.em{ text-indent:2em;}
+.p5{ padding:5px;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+/*----------------------con-------------------------*/
+.con{ width:980px; padding:10px; height:auto; margin:10px auto; background:#fff; background-color:rgba(60,130,240,0.8);-moz-border-radius:10px;border-radius:10px; border:3px solid #0d5c8f;}
+/*----------------head-----------------*/
+.head{ width:980px; height:auto; margin:auto;}
+.logo{ width:250px; height:70px; float:left;}
+.logo h1{ font-size:36px; line-height:50px; color:#f3d130; font-family:楷体;}
+.nav{ width:660px; height:40px;float:right;margin:5px auto;background-color:#1284cc;-moz-border-radius:5px;border-radius:5px;}
+.nav ul{ padding-left:30px;}
+.nav li{ float:left; padding:5px 30px; }
+.nav li a{ font-size:18px; line-height:30px; color:#fff;}
+.nav li a:hover{ color:#f3d130; text-decoration:none;}
+.nav li:hover{ background-color:#16567e}
+.nav li:hover a{ color:#f3d130;}
+
+.lunbo{ width:980px; height:380px; margin:5px auto; overflow:hidden;-moz-border-radius:5px;border-radius:5px;}
+.lunbo img{  opacity:0.9;}
+.lunbo img:hover{  opacity:1;}
+
+.banner{ width:980px; height:300px; margin:5px auto; overflow:hidden;-moz-border-radius:5px;border-radius:5px;}
+.banner img{  opacity:0.9;}
+.banner img:hover{  opacity:1;}
+
+/*----------------main-----------------*/
+.main{ width:980px; height:auto; margin:10px auto; font-size:14px; line-height:24px; color:#555;}
+.main h2{font-size:18px; line-height:46px; color:#fff;}
+.main h2 a{font-size:18px; line-height:46px; color:#fff;}
+.main p{font-size:14px; line-height:24px; color:#eee; text-indent:2em;}
+.main strong{font-size:16px; line-height:32px; color:#eee; text-indent:2em;}
+.main a{color:#f3d130;}
+
+.main_in{ width:980px; height:auto; margin:10px auto;border-top:3px solid #0d5c8f;}
+
+.main_left{width:480px; height:auto; float:left;}
+.main_right{width:480px; height:auto; float:right;}
+
+.main_list{ width:480px; height:auto; }
+.main_list li{ width:150px;height:110px; float:left; margin:3px;-moz-border-radius:5px;border-radius:5px; border:2px solid #fff;}
+.main_list li:hover{border:2px solid #f3d130;}
+.main_list li img{ width:150px; height:110px;-moz-border-radius:5px;border-radius:5px; }
+.main_list img{  opacity:0.9;}
+.main_list img:hover{  opacity:1;}
+
+
+.xinshang{ width:980px; height:auto; text-align:center;}
+.xinshang ul{ margin-left:5px;}
+.xinshang li{ width:185px;height:150px; float:left; margin:3px;-moz-border-radius:5px;border-radius:5px; border:2px solid #fff;}
+.xinshang li:hover{border:2px solid #f3d130;}
+.xinshang li img{width:185px;height:150px;-moz-border-radius:5px;border-radius:5px; }
+.xinshang img{  opacity:0.8;}
+.xinshang img:hover{  opacity:1;}
+.xinshang p a{ text-align:center;font-size:16px; line-height:38px; color:#eee; }
+
+.xinshang_img{ width:710px; height:auto; padding:10px; float:left;}
+.xinshang_img img{ width:700px;-moz-border-radius:10px;border-radius:10px;  }
+.xinshang_des{ width:180px; height:auto; padding:10px; float:left;}
+
+
+
+.zhuce{width:660px; height:300px; margin:auto; font-size:16px; color:#222;}
+.zhuce_info{width:660px; height:30px; margin:10px auto;}
+input{ width:450px; height:20px; padding:5px; border:1px solid #333; font-size:14px; color:#333; background-color:rgba(255,255,255,0.8);-moz-border-radius:5px;border-radius:5px;}
+input:hover{border:1px solid #f3d130;background-color:rgba(255,255,255,1);}
+.subout{width:400px; height:50px; margin:auto; font-size:18px; color:#222;}
+.sub{width:120px; height:25px; padding:5px; margin:10px; float:left; background-color:#900; text-align:center; }
+.sub:hover{ background-color:#000;}
+.sub a{ font-size:18px; color:#fff;}
+
+.ly_textarea{width:450px; padding:5px; height:250px; border:1px solid #000;background-color:rgba(255,255,255,0.8);-moz-border-radius:5px;border-radius:5px;}
+.ly_textarea:hover{border:1px solid #f3d130;background-color:rgba(255,255,255,1);}
+
+
+
+/*----------------foot-----------------*/
+.foot{ width:980px; height:auto; margin:10px auto; padding-top:10px; border-top:3px solid #0d5c8f; text-align:center; font-size:14px; line-height:24px; color:#ddd;}
+.foot p{ padding:5px;font-size:14px; line-height:24px; color:#ddd;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
